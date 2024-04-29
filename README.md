@@ -1,4 +1,6 @@
-JDBC stands for Java Database Connectivity. It's essentially a translator that lets Java applications talk to databases. Here's a breakdown of JDBC:
+JDBC stands for Java Database Connectivity. It's essentially a translator that lets Java applications talk to databases.
+
+Here's a breakdown of JDBC:
 
 What it does:
 Connects Java programs to various databases, allowing data retrieval, manipulation, and storage.
