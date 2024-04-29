@@ -26,4 +26,5 @@ Project Structure:-
  1. Patient: In patient Class there are 3 methods - addPatient() , viewPatient(), checkPatient().
  2. Doctors: In doctors Class there are 2 methods - viewDoctor(), checkDoctor().
  3. Hospital Management System : In Hospital Management System, There is Driver class and use both classes(Patient, Doctors) , there is main menu also and exit..
- 4. ![111](https://github.com/Vishal503/Hospital-Management-System/assets/82883728/fc4bbca0-7bcd-4830-b16a-1ef93f923fde)
+   
+![11](https://github.com/Vishal503/Hospital-Management-System/assets/82883728/8bd4dd52-b954-4cd0-a25f-36c331ac827e)
